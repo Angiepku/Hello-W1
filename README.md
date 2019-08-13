@@ -1,6 +1,4 @@
 # Hello-W1
-test
+# the task today is finish the project of CIFAR-10 object identification, but I don't know how TAT
 
-this is my first github text
-this is awesome to tab here, I liking coding, it's cool
-see you later
+
